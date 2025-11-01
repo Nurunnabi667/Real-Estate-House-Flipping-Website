@@ -1,0 +1,16 @@
+real-estate-flipping-site/
+│
+├─ wp-content/
+│   ├─ themes/
+│   │   └─ real-estate-theme/
+│   │       ├─ style.css
+│   │       ├─ functions.php
+│   │       ├─ header.php
+│   │       ├─ footer.php
+│   │       └─ index.php
+│   └─ plugins/
+│       └─ README.md (optional placeholder)
+│
+├─ .gitignore
+├─ README.md
+└─ index.php
