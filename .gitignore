@@ -1,0 +1,22 @@
+# WordPress core files
+/wp-admin/
+/wp-includes/
+
+# Logs and database
+*.log
+*.sql
+*.sqlite
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# PHPStorm / VSCode settings
+.idea/
+.vscode/
+
+# Node / build files if used
+node_modules/
+dist/
